@@ -1,11 +1,6 @@
 package incobot;
 
 import static org.junit.Assert.assertEquals;
-import static org.mockito.Mockito.mock;
-import static org.mockito.Mockito.verify;
-import static org.mockito.Mockito.when;
-import static org.junit.contrib.java.lang.system.TextFromStandardInputStream.*;
-
 import java.util.Scanner;
 
 import org.junit.Rule;
